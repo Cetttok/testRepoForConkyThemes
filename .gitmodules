@@ -1,0 +1,3 @@
+[submodule "lean-conky-config"]
+	path = lean-conky-config
+	url = https://github.com/jxai/lean-conky-config
