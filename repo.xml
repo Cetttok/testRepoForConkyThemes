@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<root>
+    <info name="testRepo">
+        <description>test repo for conky themes developing</description>
+    </info>
+    <theme alias="lean">lean.theme/conky.conf</theme>
+    <theme alias="someuser.theme">someuser.theme/theme.conf</theme>
+</root>
