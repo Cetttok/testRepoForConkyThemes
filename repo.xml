@@ -4,5 +4,5 @@
         <description>test repo for conky themes developing</description>
     </info>
     <theme alias="lean">lean.theme/conky.conf</theme>
-    <theme alias="someuser">someuser.theme/theme.conf</theme>
+    <theme alias="zorin">zorin.theme/theme.conf</theme>
 </root>
